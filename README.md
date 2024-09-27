@@ -1,2 +1,2 @@
 # game_study
-game_study_tap
+game_study
